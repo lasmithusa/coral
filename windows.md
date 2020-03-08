@@ -1,3 +1,5 @@
+# Windows Getting Started Guide
+
 The official ['Google Coral Getting Started Guide'](https://coral.ai/docs/dev-board/get-started/) lists a Linux or Mac computer
 as a requirement. I don't have a Linux or Max computer. To begin development today, I planned to setup a Coral development environment
 on a Mint Linux VM (to be replaced with an old Thinkpad running linux in the future). I had issues connecting to the
