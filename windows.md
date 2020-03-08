@@ -1,4 +1,4 @@
-# Windows Getting Started Guide
+# Getting Started with Coral in Windows
 
 The official ['Google Coral Getting Started Guide'](https://coral.ai/docs/dev-board/get-started/) lists a Linux or Mac computer
 as a requirement. I don't have a Linux or Max computer. To begin development today, I planned to setup a Coral development environment
